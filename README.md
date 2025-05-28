@@ -1,1 +1,5 @@
 # Image to Text Captioning NLP Project
+
+## This project presents a comprehensive deep learning pipeline designed to automatically generate scientifically accurate and context-aware textual descriptions for astronomical images, specifically those captured by the Hubble Space Telescope. The system is built around state-of-the-art transformer-based multi-modal models that bridge the gap between visual input and natural language generation. The goal is to support applications in scientific documentation, data cataloging, and educational dissemination by producing human-readable captions aligned with domain-specific knowledge in astronomy.
+
+By combining computer vision, natural language processing (NLP), and vision-language alignment techniques, this project showcases how artificial intelligence can be used to enhance the interpretability and accessibility of large-scale space imagery archives. The models used—BLIP, T5, and CLIP—are strategically chosen to form a modular and extensible system capable of adapting to diverse datasets and scientific domains.
